@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/48/trunk/sample_project/templates/registration
+END
+login.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/48/trunk/sample_project/templates/registration/login.html
+END
+logged_out.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/48/trunk/sample_project/templates/registration/logged_out.html
+END
